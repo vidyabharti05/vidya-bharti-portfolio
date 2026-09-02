@@ -282,7 +282,7 @@ export default function App() {
 
         {/* ================= SKILLS ================= */}
 
-        <section id="stack">
+        <section id="Skills">
 
           <div className="wrap">
 
