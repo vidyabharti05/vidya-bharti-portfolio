@@ -59,7 +59,7 @@ export default function App() {
               </a>
 
               <a href="#stack" onClick={() => setNavOpen(false)}>
-                Stack
+                Skills
               </a>
 
               <a href="#projects" onClick={() => setNavOpen(false)}>
