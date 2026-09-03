@@ -126,7 +126,7 @@ export default function App() {
                 <a
                   href="/vidya-bharti-portfolio/Resume.png"
                   className="btn btn-ghost"
-                  download
+                  download="Vidya-Bharti-Resume.png"
                 >
                   Download résumé
                 </a>
