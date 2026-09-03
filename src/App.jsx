@@ -58,7 +58,7 @@ export default function App() {
                 About
               </a>
 
-              <a href="#stack" onClick={() => setNavOpen(false)}>
+              <a href="#skills" onClick={() => setNavOpen(false)}>
                 Skills
               </a>
 
@@ -124,8 +124,9 @@ export default function App() {
                 </a>
 
                 <a
-                  href="#"
+                  href="/vidya-bharti-portfolio/Resume.png"
                   className="btn btn-ghost"
+                  download
                 >
                   Download résumé
                 </a>
@@ -282,7 +283,7 @@ export default function App() {
 
         {/* ================= SKILLS ================= */}
 
-        <section id="Skills">
+        <section id="skills">
 
           <div className="wrap">
 
